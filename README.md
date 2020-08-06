@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md):, currently living at :[HK](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_us.md):
+From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md):, currently living at :[SH](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_us.md):
 
 :link: [https://choong.net/](https://choong.net/)
 
