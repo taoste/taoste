@@ -6,7 +6,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
   <table> 
        <tr> 
-          <td>             
+          <td width="100%" height="80px">             
 :link: <a href="https://choong.net/" title="https://choong.net/">https://choong.net/</a>
 
 - 🔭 I’m currently working on something cool :wink:
@@ -16,7 +16,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 - ⚡ Fun fact: I :heart: :dog:s
 
 </td>  
-<td>
+<td width="100%" height="80px">  
 
 📊 **This week I spent my time on**
 
