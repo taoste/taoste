@@ -20,7 +20,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
 📊 **This week I spent my time on**
 
- <iframe frameborder="0" scrolling="no" src="https://github-readme-stats.vercel.app/api?username=taoste&show_icons=true"></iframe> 
+ <iframe src="https://github-readme-stats.vercel.app/api?username=taoste&show_icons=true"></iframe> 
 
  Statistic generated  <a href="https://github.com/saltbo/saltbo">by</a> <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">https://github.com/anuraghazra/github-readme-stats</a>
 
