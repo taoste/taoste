@@ -6,8 +6,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
   <table> 
        <tr> 
-             <td>
-             
+          <td>             
 :link: <a href="https://choong.net/" title="https://choong.net/">https://choong.net/</a>
 
 - 🔭 I’m currently working on something cool :wink:
@@ -16,9 +15,8 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 - 📫 How to reach me: @<a href="https://github.com/taoste/taoste/issues">taoste</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
-            </td>  
-
-          <td>
+</td>  
+<td>
 
 📊 **This week I spent my time on**
 
@@ -26,7 +24,6 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
  Statistic generated  <a href="https://github.com/saltbo/saltbo">by</a> <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">https://github.com/anuraghazra/github-readme-stats</a>
 
-         </td>
-			
-      </tr> 
-    </table> 
+  </td>
+ </tr> 
+</table> 
