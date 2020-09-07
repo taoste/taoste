@@ -21,7 +21,7 @@ Statistic generated [by](https://github.com/saltbo/saltbo) [https://github.com/a
 - <a href="https://sspai.com/post/25137" title="认识与入门 Markdown - 少数派">★ 认识与入门 Markdown</a> | 
  <a href="https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax" title="基本撰写和格式语法 - GitHub Docs | Markdown 代码"> GitHub Docs 基本撰写和格式语法</a> 
 
->  Windows 下的 Markdown 工具，但经朋友介绍，有两款还算不错，一款叫 [MarkdownPad](http://www.markdownpad.com/faq.html#portable) ，另一款叫 [MarkPad](http://code52.org/DownmarkerWPF/) 。
+>  Windows 下的 Markdown 工具，但经朋友介绍，有两款还算不错，一款叫 [MarkdownPad](http://www.markdownpad.com/faq.html#portable) ([下载 绿色免安装版](http://markdownpad.com/download/markdownpad2-portable.zip)) ，另一款叫 [MarkPad](http://code52.org/DownmarkerWPF/) 。
 
 >  iOS 端已有相当多的 app 支持 Markdown 语法编辑，例如 Drafts、Day One、iA Writer 等。
 
