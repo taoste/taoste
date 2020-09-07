@@ -6,7 +6,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
   <table> 
        <tr> 
-          <td width="100%" height="50px">             
+          <td width="50%" height="50px">             
 :link: <a href="https://choong.net/" title="Markdown 代码">https://choong.net/</a>
 
 - 🔭 I’m currently working on something cool :wink:
