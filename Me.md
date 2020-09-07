@@ -1,0 +1,32 @@
+### Hi there 👋
+This is the place where I opensource stuff and break things :rofl:
+
+From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md):, currently living at :[SH](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_us.md):
+
+
+  <table> 
+       <tr> 
+             <td>
+             
+:link: <a href="https://choong.net/" title="https://choong.net/">https://choong.net/</a>
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Go/Rust/Python
+- 💬 Ask me about anything related to Go/Rust/Python
+- 📫 How to reach me: @<a href="https://github.com/taoste/taoste/issues">taoste</a>
+- ⚡ Fun fact: I :heart: :dog:s
+
+            </td>  
+
+          <td>
+
+📊 **This week I spent my time on**
+
+ <iframe frameborder="0" scrolling="no" src="https://github-readme-stats.vercel.app/api?username=taoste&show_icons=true"></iframe> 
+
+ Statistic generated  <a href="https://github.com/saltbo/saltbo">by</a> <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md">https://github.com/anuraghazra/github-readme-stats</a>
+
+         </td>
+			
+      </tr> 
+    </table> 
