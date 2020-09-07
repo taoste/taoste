@@ -7,7 +7,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
   <table> 
        <tr> 
           <td width="100%" height="80px">             
-:link <a href="https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax" title="基本撰写和格式语法 - GitHub Docs | Markdown 代码">GitHub基本撰写和格式语法 - GitHub Docs</a> : <a href="https://choong.net/" title="Markdown 代码">https://choong.net/</a>
+:link: <a href="https://choong.net/" title="Markdown 代码">https://choong.net/</a>
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Go/Rust/Python
@@ -15,6 +15,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 - 📫 How to reach me: @<a href="https://github.com/taoste/taoste/issues">taoste</a>
 - ⚡ Fun fact: I :heart: :dog:s
 
+（ <a href="https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax" title="基本撰写和格式语法 - GitHub Docs | Markdown 代码">GitHub基本撰写和格式语法 - GitHub Docs</a> ）
 </td>  
 <td width="100%" height="80px">  
 
