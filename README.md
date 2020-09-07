@@ -23,6 +23,7 @@ From :[CN](https://github.com/anuraghazra/github-readme-stats/blob/master/readme
 
 ![LeGe's github stats](https://github-readme-stats.vercel.app/api?username=taoste&show_icons=true)   
 
+<a href="https://sspai.com/post/25137" title="认识与入门 Markdown - 少数派">★</a>
  <a href="https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax" title="基本撰写和格式语法 - GitHub Docs | Markdown 代码"> Statistic</a> generated  <a href="https://github.com/saltbo/saltbo">by</a> <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md">GitHub 统计卡片</a>
 
   </td>
