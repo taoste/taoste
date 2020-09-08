@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Contents  / [MarkdownPad - Frequently Asked Questions](http://markdownpad.com/faq.html#livepreview-directx)
 
 - [Go to Section One](#sectionOne)
 - [Go to Section Two](#sectionTwo)
