@@ -11,7 +11,7 @@ This is the place where I opensource stuff and break things :rofl: （ From :[CN
 - 🌱 I’m currently learning Go/Rust/Python
 - 💬 Ask me about anything related to Go/Rust/Python
 - 📫 How to reach me: @<a href="https://github.com/taoste/taoste/issues">taoste</a>
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: I :heart: :dog:s | <a href="https://github.com/settings/appearance" title="Github官方-暗黑模式设置">暗黑模式</a>
 
 </td>  
 
